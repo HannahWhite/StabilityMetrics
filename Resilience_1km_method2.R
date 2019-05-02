@@ -2,7 +2,7 @@
 ### Calculating resilience metrics using biggest drop window methods at 1 km Scale ###
 ######################################################################################
 
-### Hannah White 18.02.2019 - currently this has only been done until 2017, need to redo with up to date data
+### Hannah White 18.02.2019 
 
 rm(list=ls())
 

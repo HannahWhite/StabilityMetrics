@@ -54,7 +54,7 @@ par(oma = c(0,0,0,6))
 plot(dfr, box = FALSE, axes = FALSE, 
      main = c('Variability', 'Resistance', 'Recovery Time', 'Recovery Rate', 'Longest Return', 'Slowest Return'),
      cex.main = 2, legend.width = 2, 
-     axis.args=list(cex.axis=2.5))
+     axis.args=list(cex.axis=2), col = viridis(15)
 dev.off()
 
 
